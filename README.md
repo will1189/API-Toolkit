@@ -180,7 +180,3 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - GitHub: [https://github.com/will1189/API-Toolkit](https://github.com/will1189/API-Toolkit)
 
-## Author
-
-- GitHub: [https://github.com/simplecoder-1](https://github.com/simplecoder-1)
-- Gitee: [https://gitee.com/simplecoder-1](https://gitee.com/simplecoder-1)
